@@ -3,12 +3,12 @@ entries:
   remotedev:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-14T02:17:57.6203909+05:30"
+    created: "2020-07-27T19:01:11.0413573+05:30"
     description: A Helm chart for Remote dev environments based on code-server
-    digest: 5543554de144ce8f8ba48aefd006ad68dced6e9f91fbd484800d46529235f83b
+    digest: 92cdaed53e2d9e4781d3353aa026e5319db16568846b5fa4dd4ba360001a2636
     name: remotedev
     type: application
     urls:
     - remotedev-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-14T02:17:57.6193907+05:30"
+generated: "2020-07-27T19:01:11.0403577+05:30"
